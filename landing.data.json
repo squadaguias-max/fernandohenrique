@@ -1,0 +1,43 @@
+{
+  "project": {
+    "name": "Fernando Henrique Marques Advogados",
+    "displayName": "Fernando Henrique Marques Advogados",
+    "sourceTemplate": "Template 1",
+    "sourceVersion": "1.2.0"
+  },
+  "professional": {
+    "name": "Fernando Henrique Marques",
+    "officeName": "Fernando Henrique Marques Advogados",
+    "oab": "",
+    "biography": "Fernando Henrique Marques apresenta sua atuação jurídica a partir de Franca, São Paulo. O primeiro contato permite compreender a demanda e indicar como seguir com uma análise individual."
+  },
+  "contact": {
+    "phone": "5548988122932",
+    "whatsapp": "5548988122932",
+    "whatsappMessage": "Olá! Vim pelo site de Fernando Henrique Marques e gostaria de informações sobre atendimento.",
+    "email": "fernandohenriquemarques.adv@gmail.com"
+  },
+  "location": {
+    "city": "Franca/SP",
+    "streetAddress": "Rua Augusto Marques, 1747",
+    "postalCode": "14400-480",
+    "address": "Rua Augusto Marques, 1747, Franca/SP, CEP 14400-480",
+    "mapsQuery": "Rua Augusto Marques 1747, Franca, SP, 14400-480"
+  },
+  "theme": {
+    "primary": "#c6bca6",
+    "secondary": "#101a1c"
+  },
+  "hero": {
+    "title": "Orientação jurídica com atenção ao seu caso.",
+    "description": "Em Franca/SP, um espaço para apresentar sua situação e compreender os próximos passos com clareza. Cada caso depende de análise individual.",
+    "cta": "Entre em contato"
+  },
+  "pending": [
+    "Áreas de atuação e serviços efetivamente prestados",
+    "Número da OAB e UF",
+    "Domínio oficial para canonical, sitemap e compartilhamento",
+    "Modalidades e regiões de atendimento",
+    "Biografia e credenciais aprovadas, se desejadas"
+  ]
+}
